@@ -13,14 +13,18 @@ var tutorials =
       [ "Pros and Cons", "rtss.html#pros-cons", null ]
     ] ],
     [ "HLMS: High Level Material System", "hlms.html", [
-      [ "A lot of data is stored in “Blocks”", "hlms.html#data", null ],
-      [ "Materials are still alive", "hlms.html#materials", null ],
-      [ "The three components", "hlms.html#components", [
-        [ "Datablocks", "hlms.html#toc52", null ],
-        [ "Hlms templates", "hlms.html#toc69", null ]
+      [ "The three components", "hlms.html#components", null ],
+      [ "Compared to classical materials", "hlms.html#materials", null ],
+      [ "Material parameters are stored in “Blocks”", "hlms.html#data", [
+        [ "Datablocks", "hlms.html#toc52", null ]
+      ] ],
+      [ "Hlms templates", "hlms.html#toc69", [
+        [ "The Hlms preprocessor", "hlms.html#preproc", null ],
+        [ "Preprocessor syntax", "hlms.html#syntax", null ]
       ] ],
       [ "Creation of shaders", "hlms.html#shaders", null ],
-      [ "C++ interaction with shader templates", "hlms.html#cpp", null ]
+      [ "C++ interaction with shader templates", "hlms.html#cpp", null ],
+      [ "Customization", "hlms.html#customization", null ]
     ] ],
     [ "Trays GUI System", "trays.html", [
       [ "Trays", "trays.html#trays-1", null ],

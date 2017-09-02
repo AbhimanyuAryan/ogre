@@ -1,5 +1,8 @@
 var NAVTREEINDEX148 =
 {
+"struct_ogre_1_1_scene_manager_1_1_sky_plane_gen_parameters.html#affded02d7446a84df467f367beeb022e":[4,0,10,43,7,2],
+"struct_ogre_1_1_scene_manager_1_1light_less.html":[4,0,10,43,0],
+"struct_ogre_1_1_scene_manager_1_1light_less.html#a4fe8e843bafe331218daa68e78f5da39":[4,0,10,43,0,0],
 "struct_ogre_1_1_scene_manager_1_1material_less.html":[4,0,10,43,2],
 "struct_ogre_1_1_scene_manager_1_1material_less.html#af8782b00a396dac220a2c1846bd6a2a1":[4,0,10,43,2,0],
 "struct_ogre_1_1_scene_manager_meta_data.html":[4,0,10,46],
@@ -246,8 +249,5 @@ var NAVTREEINDEX148 =
 "struct_ogre_1_1_vector_set.html#a4df1045f716602fb6718df3dda8c2187":[6,0,0,830,31],
 "struct_ogre_1_1_vector_set.html#a4e98041c1a76abf808becf450f43e5c7":[6,0,0,830,42],
 "struct_ogre_1_1_vector_set.html#a53872aabbaa3c28ff90c0fdd4458f101":[6,0,0,830,34],
-"struct_ogre_1_1_vector_set.html#a60eb6558693ab2020fba03c8ea5038c5":[6,0,0,830,2],
-"struct_ogre_1_1_vector_set.html#a615a2a0b15043d64f5ccd8aeb938b021":[6,0,0,830,17],
-"struct_ogre_1_1_vector_set.html#a67023569cb41feecb45058a3f915d7cd":[6,0,0,830,50],
-"struct_ogre_1_1_vector_set.html#a67f552cb7d9bf5fa06ba95d24e124949":[6,0,0,830,22]
+"struct_ogre_1_1_vector_set.html#a60eb6558693ab2020fba03c8ea5038c5":[6,0,0,830,2]
 };

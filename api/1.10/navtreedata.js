@@ -193,11 +193,11 @@ var NAVTREEINDEX =
 "group___render_system.html#gga3d2965b7f378ebdcfe8a4a6cf74c3de7ad12d6aa304455f99d23426ba8fa3f3c4",
 "group___scene.html#ga6262e3dae9fe33962f8f87115015c14f",
 "group___terrain.html#gga4e7b31c45dc1afba816f7d9bc71a301baf4ad13488a8b22a4309fdd0a7fb70db8",
-"struct_ogre_1_1_file_info.html#ac9634cdb326f2b11575a8cc7fc509b96",
-"struct_ogre_1_1_lod_level.html#a8ff93cf3342f8e02c9a605f99e715a3c",
-"struct_ogre_1_1_scene_manager_1_1material_less.html",
-"struct_ogre_1_1_vector_set.html#a69fe902553d7da5e96a8b74df3714e22",
-"structbsp__leaf__t.html#ac5e7f3fbecd883bfb6e23d79f7c8062c"
+"struct_ogre_1_1_file_info.html#a66c7bf4f59feb619016a5c70e4ded4ee",
+"struct_ogre_1_1_lod_level.html#a66963ac25513a9575ef21dfbef2c5256",
+"struct_ogre_1_1_scene_manager_1_1_sky_plane_gen_parameters.html#affded02d7446a84df467f367beeb022e",
+"struct_ogre_1_1_vector_set.html#a615a2a0b15043d64f5ccd8aeb938b021",
+"structbsp__leaf__t.html#a6f98e8bd2b696a946a8c0785e3223f75"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
